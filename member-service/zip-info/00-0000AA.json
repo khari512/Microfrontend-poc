@@ -1,0 +1,4470 @@
+{
+   "id":"5436311252",
+   "identity":{
+      "source":"jde",
+      "memberId":"380010",
+      "memberCode":"38-0010AA",
+      "status":"Active",
+      "memberType":"FLORIST",
+      "createdOn":"2021-05-24T11:50:37.456Z",
+      "updatedOn":"2021-05-24T11:50:37.457Z"
+   },
+   "memberCode":"38-0010AA",
+   "deliveryZoneInfo":[
+      {
+         "id":"DZ1402375387",
+         "zipcode":"10011",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402376348",
+         "zipcode":"10090",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402377309",
+         "zipcode":"10022",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402378270",
+         "zipcode":"10168",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402379231",
+         "zipcode":"10033",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402380192",
+         "zipcode":"10179",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402381153",
+         "zipcode":"10044",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402382114",
+         "zipcode":"10055",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402383075",
+         "zipcode":"10007",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402384036",
+         "zipcode":"10113",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402384997",
+         "zipcode":"10018",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402385958",
+         "zipcode":"10124",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402386919",
+         "zipcode":"10029",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402387880",
+         "zipcode":"10161",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402388841",
+         "zipcode":"10102",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402389802",
+         "zipcode":"10172",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402390763",
+         "zipcode":"10259",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402391724",
+         "zipcode":"10157",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402392685",
+         "zipcode":"10150",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402393646",
+         "zipcode":"10274",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402394607",
+         "zipcode":"10285",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402395568",
+         "zipcode":"10002",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402396529",
+         "zipcode":"10081",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402397490",
+         "zipcode":"10177",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402398451",
+         "zipcode":"10024",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402399412",
+         "zipcode":"10272",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402400373",
+         "zipcode":"10199",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402401334",
+         "zipcode":"10095",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402402295",
+         "zipcode":"10046",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402403256",
+         "zipcode":"10009",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402404217",
+         "zipcode":"10075",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402405178",
+         "zipcode":"10111",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402406139",
+         "zipcode":"10185",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402407100",
+         "zipcode":"10280",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402408061",
+         "zipcode":"10104",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402409022",
+         "zipcode":"10170",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402409983",
+         "zipcode":"10133",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402410944",
+         "zipcode":"10163",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402411905",
+         "zipcode":"10279",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402412866",
+         "zipcode":"10155",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402413827",
+         "zipcode":"10031",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402414788",
+         "zipcode":"10038",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402415749",
+         "zipcode":"10016",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402416710",
+         "zipcode":"10265",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402417671",
+         "zipcode":"10126",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402418632",
+         "zipcode":"10004",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402419593",
+         "zipcode":"10292",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402420554",
+         "zipcode":"10107",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402421515",
+         "zipcode":"10015",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402422476",
+         "zipcode":"10118",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402423437",
+         "zipcode":"10121",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402424398",
+         "zipcode":"10278",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402425359",
+         "zipcode":"10072",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402426320",
+         "zipcode":"10281",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402427281",
+         "zipcode":"10132",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402428242",
+         "zipcode":"10268",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402429203",
+         "zipcode":"10048",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402430164",
+         "zipcode":"10165",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402431125",
+         "zipcode":"10176",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402432086",
+         "zipcode":"10003",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402433047",
+         "zipcode":"10117",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402434008",
+         "zipcode":"10014",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402434969",
+         "zipcode":"10120",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402435930",
+         "zipcode":"10131",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402436891",
+         "zipcode":"10282",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402437852",
+         "zipcode":"10047",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402438813",
+         "zipcode":"10164",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402439774",
+         "zipcode":"10175",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402440735",
+         "zipcode":"10106",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402441696",
+         "zipcode":"10006",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402442657",
+         "zipcode":"10109",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402443618",
+         "zipcode":"10123",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402444579",
+         "zipcode":"10173",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402445540",
+         "zipcode":"10013",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402446501",
+         "zipcode":"10159",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402447462",
+         "zipcode":"10269",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402448423",
+         "zipcode":"10167",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402449384",
+         "zipcode":"10277",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402450345",
+         "zipcode":"10116",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402451306",
+         "zipcode":"10005",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402452267",
+         "zipcode":"10115",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402453228",
+         "zipcode":"10108",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402454189",
+         "zipcode":"10174",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402455150",
+         "zipcode":"10099",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402456111",
+         "zipcode":"10012",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402457072",
+         "zipcode":"10122",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402458033",
+         "zipcode":"10130",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402458994",
+         "zipcode":"10020",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402459955",
+         "zipcode":"10276",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402460916",
+         "zipcode":"10166",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402461877",
+         "zipcode":"10087",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402462838",
+         "zipcode":"10103",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402463799",
+         "zipcode":"10008",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402464760",
+         "zipcode":"10098",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402465721",
+         "zipcode":"10114",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402466682",
+         "zipcode":"10019",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402467643",
+         "zipcode":"10171",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402468604",
+         "zipcode":"10242",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402469565",
+         "zipcode":"10158",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402470526",
+         "zipcode":"10160",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402471487",
+         "zipcode":"10275",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402472448",
+         "zipcode":"10125",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402473409",
+         "zipcode":"10286",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402474370",
+         "zipcode":"10080",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402475331",
+         "zipcode":"10010",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402476292",
+         "zipcode":"10178",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402477253",
+         "zipcode":"10021",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402478214",
+         "zipcode":"10032",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402479175",
+         "zipcode":"10249",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402480136",
+         "zipcode":"10043",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402481097",
+         "zipcode":"10065",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402482058",
+         "zipcode":"10105",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402483019",
+         "zipcode":"10200",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402483980",
+         "zipcode":"10184",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402484941",
+         "zipcode":"10112",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402485902",
+         "zipcode":"10162",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402486863",
+         "zipcode":"10149",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402487824",
+         "zipcode":"10039",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402488785",
+         "zipcode":"10030",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402489746",
+         "zipcode":"10017",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402490707",
+         "zipcode":"10156",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402491668",
+         "zipcode":"10001",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402492629",
+         "zipcode":"10082",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402493590",
+         "zipcode":"10023",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402494551",
+         "zipcode":"10169",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402495512",
+         "zipcode":"10273",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402496473",
+         "zipcode":"10119",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402497434",
+         "zipcode":"10045",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402498395",
+         "zipcode":"10258",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402499356",
+         "zipcode":"10060",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402500317",
+         "zipcode":"10096",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402501278",
+         "zipcode":"10213",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402502239",
+         "zipcode":"10197",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402503200",
+         "zipcode":"10094",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402504161",
+         "zipcode":"10110",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402505122",
+         "zipcode":"10129",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402506083",
+         "zipcode":"10270",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402507044",
+         "zipcode":"10069",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402508005",
+         "zipcode":"10257",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402508966",
+         "zipcode":"10037",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402509927",
+         "zipcode":"10154",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402510888",
+         "zipcode":"10026",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402511849",
+         "zipcode":"10196",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402512810",
+         "zipcode":"10212",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402513771",
+         "zipcode":"10079",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402514732",
+         "zipcode":"10128",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402515693",
+         "zipcode":"10271",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402516654",
+         "zipcode":"10040",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402517615",
+         "zipcode":"10256",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402518576",
+         "zipcode":"10153",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402519537",
+         "zipcode":"10260",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402520498",
+         "zipcode":"10025",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402521459",
+         "zipcode":"10036",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402522420",
+         "zipcode":"10211",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402523381",
+         "zipcode":"10101",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402524342",
+         "zipcode":"10261",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402525303",
+         "zipcode":"10041",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402526264",
+         "zipcode":"10151",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402527225",
+         "zipcode":"10035",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402528186",
+         "zipcode":"10028",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402529147",
+         "zipcode":"10138",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402530108",
+         "zipcode":"10203",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402531069",
+         "zipcode":"10152",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402532030",
+         "zipcode":"10034",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      },
+      {
+         "id":"DZ1402532991",
+         "zipcode":"10027",
+         "cutoffTime":[
+            {
+               "name":"Mo,Tu,We,Th,Fr,Sa,Su",
+               "value":"02:00 PM"
+            }
+         ],
+         "startDate":null,
+         "endDate":null,
+         "zipBlockStatus":"ACTIVE",
+         "city":"New York",
+         "state":"NY",
+         "localCutoffTime":{
+            "mon":"02:00 PM",
+            "tue":"02:00 PM",
+            "wed":"02:00 PM",
+            "thu":"02:00 PM",
+            "fri":"02:00 PM",
+            "sat":"02:00 PM",
+            "sun":"02:00 PM"
+         },
+         "deliveryOption":"STANDARD_DELIVERY",
+         "productGroup":"SUBSCRIBED_CODIFIED_PRODUCTS",
+         "noOfFlorists":"-"
+      }
+   ]
+}
