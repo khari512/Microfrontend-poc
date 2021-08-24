@@ -1,0 +1,38 @@
+{
+    "createDetails": {
+        "batchInfo": {
+            "batchName": "Test",
+            "reason": "test",
+            "prefix": "GIFT",
+            "quantity": 2,
+            "gcLength": 10
+        },
+        "batchNumber": "X9LBPWQBTU",
+        "reason": null,
+        "createdOn": "08/24/2021",
+        "expirationDate": "2021-08-25T05:30:00.000Z",
+        "fileFormat": null,
+        "giftCodeId": null,
+        "issueAmount": 1,
+        "issueDate": "2021-08-24T05:30:18.769Z",
+        "meta": null,
+        "paidAmount": null,
+        "redemptionDetails": null,
+        "reinstateDate": null,
+        "siteId": "FTD",
+        "source": null,
+        "status": "Completed",
+        "type": "GC",
+        "updatedOn": null,
+        "promotionId": null,
+        "liabilityAmount": null,
+        "multiUse": false,
+        "pcValue": null,
+        "downgradablePcValue": null
+    },
+    "recipientInfo": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "createdDate": "2021-08-24T06:04:58.119Z",
+    "lastModifiedDate": null
+}
