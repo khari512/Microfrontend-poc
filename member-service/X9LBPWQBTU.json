@@ -20,7 +20,9 @@
         "redemptionDetails": null,
         "reinstateDate": null,
         "siteId": "FTD",
-        "source": null,
+        "source": [
+            { "refCode" : "14258,552" }
+        ],
         "status": "Completed",
         "type": "GC",
         "updatedOn": null,
